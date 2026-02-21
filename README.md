@@ -1,6 +1,6 @@
 # Hospital-Performance-Dashboard
-🏥 Hospital Dashboard Analysis – Power BI Project
-📌 Project Description
+🏥 Hospital Performance Dashboard Analysis – Power BI 
+📌 Description
 
 This project presents an interactive Hospital Management Dashboard developed using Power BI to analyze patient data and treatment performance across different hospital departments.
 
